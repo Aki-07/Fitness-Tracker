@@ -18,7 +18,7 @@ We have mainly considered 4 types of exercises
 
 *The squat lift exercise is arguably one of the best overall weightlifting exercises for building lower body and leg power and strength. Because this is a compound exercise that engages multiple muscles and joints at once, it takes some instruction and practice to master safely
 
-** Walk is basically a step counter
+*Walk is basically a step counter
 
 ### To Run the code dynamically 
 Juz enter this
