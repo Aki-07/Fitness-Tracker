@@ -24,3 +24,8 @@ We have mainly considered 4 types of exercises
 Juz enter this
 
 python main.py -t [exercise_name]
+
+### Interesting thing is that you can also record your perfomance exercise videos and run the application,this model runs the video and outputs a dynamic counter for you
+TO run this using video output
+
+python main.py -t [exercise_name] -vs [video_source]
